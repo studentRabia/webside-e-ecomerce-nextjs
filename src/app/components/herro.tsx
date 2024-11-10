@@ -40,8 +40,8 @@ function Herro(){
 
                      {/* right side */}
                      <div className='mr-4'>
-                        <Image src={"/images/hero/ledsumnug.png"}
-                        width={350}
+                        <Image src={"/images/hero/iphone.avif"}
+                        width={550}
                         height={200}
                         alt='hero iamges'></Image>
                      </div>

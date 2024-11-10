@@ -34,9 +34,9 @@ function Music(){
                 </div>
                 {/* right box */}
                 <div className=' sm:w-[80%] md:[40%] lg:w-[40%] pl-6'>
-              <Image src={"/images/music-box/music-speaker0.jpg.png"} 
-              width={500}
-              height={500}
+              <Image src={"/images/futured/speakers.avif"} 
+              width={300}
+              height={300}
               alt='images'></Image>
                <button className='bg-gray-950 hover:bg-blue-950  sm:block md:hidden  sm:px-3 md:px-7 sm:text-sm md:text-sm py-0 text-white font-bold rounded-sm h-10 mt-3  '>Buy Now!</button>
 

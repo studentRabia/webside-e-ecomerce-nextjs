@@ -78,7 +78,7 @@ export default function Futured() {
                 </div>
                 {/* image */}
                 <Image
-                  src={"/images/Futured/speakers.avif"}
+                  src={"/images/Futured/j.avif"}
                   width={250}
                   height={200}
                   alt="playstation"
@@ -122,7 +122,7 @@ export default function Futured() {
                 </div>
                 {/* image */}
                 <Image
-                  src={"/images/Futured/jewlary.avif"}
+                  src={"/images/singup/fashion0.avif"}
                   width={250}
                   height={200}
                   alt="playstation"
