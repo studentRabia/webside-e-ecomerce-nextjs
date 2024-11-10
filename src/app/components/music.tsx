@@ -34,7 +34,7 @@ function Music(){
                 </div>
                 {/* right box */}
                 <div className=' sm:w-[80%] md:[40%] lg:w-[40%] pl-6'>
-              <Image src={"/images/futured/speakers.avif"} 
+              <Image src={"/images/Futured/speakers.avif"} 
               width={300}
               height={300}
               alt='images'></Image>
